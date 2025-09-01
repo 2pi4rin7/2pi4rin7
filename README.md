@@ -1,7 +1,7 @@
 # 💫About Me :
-I'm looking the blue team job
-I'm a student at UIT
-My major is Cyber Security (Digital Forensic addict)
+I'm looking the blue team job  
+I'm a student at UIT  
+My major is Cyber Security (Digital Forensic addict)  
 
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)]() [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/pir1n) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%ACnh-nh%E1%BA%ABn-phan-167b2031a/) 
