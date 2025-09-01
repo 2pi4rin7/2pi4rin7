@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm looking the blue team job  
+I'm looking for the blue team job  
 I'm a student at UIT  
 My major is Cyber Security (Digital Forensic addict)  
 
